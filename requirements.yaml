@@ -1,0 +1,11 @@
+name: reflow
+channels:
+  - defaults
+dependencies:
+  - numpy=2.4.4
+  - pip
+  - python=3.11.15
+  - pip:
+      - pandas==3.0.2
+      - scipy==1.17.1
+      - torch==2.5.1+cu121
