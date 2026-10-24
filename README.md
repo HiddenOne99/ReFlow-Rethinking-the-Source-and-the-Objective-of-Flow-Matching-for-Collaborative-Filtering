@@ -1,6 +1,6 @@
 # ReFlow: Rethinking the Source and the Objective of Flow Matching for Collaborative Filtering
 
-This repository contains the implementation for "ReFlowFlow: Rethinking the Source and the Objective of Flow Matching for Collaborative Filtering" paper.
+This repository contains the implementation for "ReFlow: Rethinking the Source and the Objective of Flow Matching for Collaborative Filtering" paper.
 
 To reproduce the experiments, please follow the steps below:
 
